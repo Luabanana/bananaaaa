@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "http": "^0.0.1-security",
+    "simplex-noise": "^4.0.3",
+    "socket.io": "^4.8.1"
+  }
+}
